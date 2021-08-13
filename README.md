@@ -13,5 +13,5 @@ Development of a movie website using PHP and MySQL, for the Databases and Inform
 - move the folder cinebase to the path /MAMP/htdocs/
 
 ## Example
-<img src="images/1.png" width="300"/> <img src="images/2.png" width="300"/> 
+<img src="images/1.png" width="450"/> <img src="images/2.png" width="450"/> 
 
