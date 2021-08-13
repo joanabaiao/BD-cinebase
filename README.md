@@ -14,4 +14,5 @@ Development of a movie website using PHP and MySQL, for the Databases and Inform
 
 ## Example
 <img src="images/1.png" width="450"/> <img src="images/2.png" width="450"/> 
+<img src="images/3.png" width="450"/> <img src="images/4.png" width="450"/> 
 
