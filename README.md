@@ -11,11 +11,3 @@ Development of a movie website using PHP and MySQL, for the Databases and Inform
 ## Instructions
 - create a database named "cinebase" and import the file “cinebase.sql” to the PHP server
 - move the folder cinebase to the path /MAMP/htdocs/
-
-```
-	$host = "localhost";
-	$port = "8889";
-	$db_user = "pedro";
-	$db_password = "pedro";
-	$db_name = "cinebase";
-```
