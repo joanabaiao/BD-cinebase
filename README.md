@@ -12,11 +12,10 @@ Development of a movie website using PHP and MySQL, for the Databases and Inform
 - create a database named "cinebase" and import the file “cinebase.sql” to the PHP server
 - move the folder cinebase to the path /MAMP/htdocs/
 
-## Example
+## Examples
 <img src="images/1.png" width="450"/> <img src="images/2.png" width="450"/> 
 <img src="images/3.png" width="450"/> <img src="images/4.png" width="450"/> 
 <img src="images/5.png" width="450"/> <img src="images/6.png" width="450"/> 
 <img src="images/7.png" width="450"/> <img src="images/8.png" width="450"/> 
 <img src="images/9.png" width="450"/> <img src="images/10.png" width="450"/> 
-<img src="images/11.png" width="450"/>
 
